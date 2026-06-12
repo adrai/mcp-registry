@@ -15,7 +15,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/600935?s=200&v=4
 source:
   project: https://github.com/mapbox/mcp-devkit-server
-  commit: 01510539fe511d0d4c42fd59ff417b6d0d2500cf
+  commit: 57dc57407fe3edbcdd87d42c4f004d0a6e3ff878
   dockerfile: Dockerfile
 config:
   secrets:
